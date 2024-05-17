@@ -1,0 +1,41 @@
+{
+  "name": "react-native-viewport-ts-units",
+  "version": "0.0.1",
+  "description": "A simple TypeScript-supported package to enable viewport-based units in React Native: vh, vw, vmax, vmin",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "url": "https://github.com/rb3198/react-native-viewport-ts-units"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "expo",
+    "react",
+    "native",
+    "expo",
+    "react-native",
+    "react-native-viewport",
+    "react",
+    "native",
+    "viewport",
+    "viewport units",
+    "units",
+    "vh",
+    "vw"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "author": "rb3198",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

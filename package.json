@@ -1,6 +1,6 @@
 {
   "name": "react-native-viewport-ts-units",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple TypeScript-supported package to enable viewport-based units in React Native: vh, vw, vmax, vmin",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
